@@ -16,4 +16,4 @@ You can modify this to work without it, but for true x-browser goodness, you sho
 Notes:
 
 * `attrs.floater` = the element you want to use as the bottom edge for your floating box (usually a footer)
-* The parent element of the floating box should be position: relative for when it hits the bounding edge and needs to lock to the bottom
+* The parent element of the floating box should be `position: relative` for when it hits the bounding edge and needs to lock to the bottom
